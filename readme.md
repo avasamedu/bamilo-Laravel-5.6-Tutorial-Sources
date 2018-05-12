@@ -6,5 +6,6 @@ Eshopper قالب نهایی فروشگاه
 
 Bootstrap Metro Dashboard master قالب پنل مدیریت فروشگاه 
 
+database design تصویر ساختار پایگاه داده تا جلسه ی 35 ام این دوره 
 
 http://samenta.ir
