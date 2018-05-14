@@ -8,4 +8,6 @@ Bootstrap Metro Dashboard master قالب خام استفاده شده در پن
 
 database design تصویر ساختار پایگاه داده تا جلسه ی 35 ام این دوره 
 
+فونت مورد استفاده در این پروژه فونت وزیر هست لینک : https://github.com/samenta/vazir-font
+
 http://samenta.ir
